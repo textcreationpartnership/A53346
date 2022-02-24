@@ -1,0 +1,899 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Amsterdam: toleration, or no toleration in a discourse between conformists, non-conformists, papists, Anabaptists, Quakers, &amp;c. In their own words, before a gracious king, about the extent of a Christian indulgence to all dissenters. By J.V.C.O. A friend to men of all religions.</title>
+            <author>J. V. C. O.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 68 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53346</idno>
+            <idno type="STC">Wing O2A</idno>
+            <idno type="STC">ESTC R207624</idno>
+            <idno type="EEBO-CITATION">99825405</idno>
+            <idno type="PROQUEST">99825405</idno>
+            <idno type="VID">29787</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53346)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29787)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1838:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Amsterdam: toleration, or no toleration in a discourse between conformists, non-conformists, papists, Anabaptists, Quakers, &amp;c. In their own words, before a gracious king, about the extent of a Christian indulgence to all dissenters. By J.V.C.O. A friend to men of all religions.</title>
+                  <author>J. V. C. O.</author>
+               </titleStmt>
+               <extent>[4], 51, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year MDCLXIII. [1663]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "conformists, .. Quakers, &amp;c." are enclosed in braces on title page.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29787:1" rendition="simple:additions"/>
+            <p>
+               <hi>AMSTERDAM:</hi> Toleration, or no Toleration; In a DISCOURSE BETWEEN
+<list>
+                  <item>CONFORMISTS,</item>
+                  <item>NON-CONFORMISTS,</item>
+                  <item>PAPISTS,</item>
+                  <item>ANABAPTISTS,</item>
+                  <item>QUAKERS, <hi>&amp;c.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>In their own Words, before a <hi>Gracious King,</hi> about the extent of a Chriſtian Indulgence to all Diſſenters.</p>
+            <p>By <hi>J. V. C. O.</hi> A Friend to Men of all Religions.</p>
+            <q>
+               <bibl>
+                  <hi>Rom. 4.19.</hi>
+               </bibl>
+               <p>Let us follow the things that make for peace.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed in the year MDCLXIII.</p>
+            <pb facs="tcp:29787:2" rendition="simple:additions"/>
+            <pb facs="tcp:29787:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:29787:3"/>
+            <pb facs="tcp:29787:3"/>
+            <head>TO All that are SPIRITED FOR An Univerſal Accommodation.</head>
+            <p>THat good people may know what Indulgence they are to look for, here is the Judgement of the a<g ref="char:EOLhyphen"/>bleſt of all Profeſſions, in ther own words, concerning as much Favour as can be allowed men of different Perſwaſions. Here you ſee what wiſe men have thought about Tolera<g ref="char:EOLhyphen"/>tion: here you ſee what wiſe men may look for; and withal, what all Par<g ref="char:EOLhyphen"/>ties
+<pb facs="tcp:29787:4"/>
+will be contented with, in order to that Peace and Settlement that may bleſs us and our Poſterity.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:29787:4"/>
+            <head>
+               <hi>AMSTERDAM:</hi> Toleration, or no Toleration.</head>
+            <sp>
+               <speaker>King.</speaker>
+               <p>
+                  <seg rend="decorInit">I</seg> Have ſent for you, my loving Subjects of all Profeſſions, to bear witneſs to the tender<g ref="char:EOLhyphen"/>neſs and compaſſion I have for all my good People of different Perſwaſions, who live ſoberly and peaceably, according to their ſeveral Apprehenſions; and to the care I have taken to compoſe Differences and Offences that I have found in this King<g ref="char:EOLhyphen"/>dom, by Impartiality: or at leaſt to allay mens Heats and Animoſities ſo far, as that notwithſtanding their ſeveral Perſwaſions, they might cement in a common Peace, ſo much conducing to the happineſs and wel<g ref="char:EOLhyphen"/>fare
+<pb n="2" facs="tcp:29787:5"/>
+of this Nation. Really, the ſatisfa<g ref="char:EOLhyphen"/>ction of all ſober men in the matter of Re<g ref="char:EOLhyphen"/>ligion, hath layn ſo much upon my Spi<g ref="char:EOLhyphen"/>rit, that I have ſpared no time, refuſed no pains to take in the Advice and Appre<g ref="char:EOLhyphen"/>henſions of the moſt knowing in all Ways; whereby a courſe might have been taken that would oblige all perſons to joyn in a chearful Obedience to our Government, and in an univerſal Endeavour for com<g ref="char:EOLhyphen"/>mon Good. It's not unknown to the world with what patience I have heard the ſen<g ref="char:EOLhyphen"/>timents of all Parties ſince I came to <hi>Eng<g ref="char:EOLhyphen"/>land:</hi> I have offered all that in Reaſon, Honour and Conſcience I can; reſerving onely what I cannot conſent unto, without an irrepairable injury to my own Soul, the Church, and my People. And at laſt I put all difference in Church-Affairs and Religion to the free Conſultation of a Convocation legally choſen: the Reſults of whoſe Counſels, as they include the Votes of all, ſo I hoped they would have given ſatisfaction unto all. What would you have me do more then I have done?</p>
+            </sp>
+            <sp>
+               <speaker>Chancellour.</speaker>
+               <p>Gentlemen, the diſtempers of Religion which have too much diſtur<g ref="char:EOLhyphen"/>bed the peace of this Kingdom, is a ſad
+<pb n="3" facs="tcp:29787:5"/>
+Argument indeed: it is a Conſideration that would make every religious heart to bleed, to ſee Religion, which ſhould be the ſtrongeſt Obligation, and cement of Affection and brotherly Love, Kindneſs and Compaſſion, made now by the per<g ref="char:EOLhyphen"/>verſeneſs of paſſionate and froward men, the ground of all Animoſity, Hatred and Malice. It was not ſo of old, when one of the moſt ancient Fathers of the Church tells us, That Love and Charity was ſo ſignal and eminent in the Primitive Chri<g ref="char:EOLhyphen"/>ſtians, that it even drew Admiration and Envy from their greateſt Adverſaries. <hi>Vide (inquiunt) ut invicem ſe diligunt.</hi> How would they look upon our ſharp and viru<g ref="char:EOLhyphen"/>lent Contentions in the Debates of Chri<g ref="char:EOLhyphen"/>ſtian Religion, and the bloody Wars that have proceeded from thoſe Contentions, whilſt every one pretended to all the marks which are to attend upon the true Church, except onely that which is inſeparable from it, <hi>Charity to one another!</hi>
+               </p>
+               <p>Really, this Diſquiſition hath coſt the King many a ſigh, many a ſad hour, when he hath conſidered the moſt irrepairable reproach the Proteſtant Religion hath un<g ref="char:EOLhyphen"/>dergone from the Diviſions and Diſtra<g ref="char:EOLhyphen"/>ctions
+<pb n="4" facs="tcp:29787:6"/>
+which have been ſo notorious in this Kingdom. What pains he hath ta<g ref="char:EOLhyphen"/>ken to compoſe them, after ſeveral Diſ<g ref="char:EOLhyphen"/>courſes with learned and pious Men of ſe<g ref="char:EOLhyphen"/>veral Perſwaſions, you may ſee by a De<g ref="char:EOLhyphen"/>claration he hath publiſhed upon that oc<g ref="char:EOLhyphen"/>caſion; by which you ſee his willingneſs to indulge all tender Conſciences as far as lieth in his power. We all hope that God will ſo bleſs the candour of his Maje<g ref="char:EOLhyphen"/>ſty in the condeſcention he makes, that all good people will return to that Unity and Unanimity, which will make both King and People as happy as they can be in this world.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>That you may ſee that I am not guided by any ſingle mans counſel, fidelity and diſcretion in the management of the great matters of Religion; and that I comply not in my Government with parti<g ref="char:EOLhyphen"/>cular mens paſſions, humours, and private opinions, I here meet you, whom <hi>I</hi> look upon as the moſt knowing, ſober, and mo<g ref="char:EOLhyphen"/>derate of the ſeveral Profeſſions under my Government; by whoſe diſcretion <hi>I</hi> hope <hi>I</hi> may be adviſed ſo, as that <hi>I</hi> may be able to give all juſt ſatisfaction to all ſober de<g ref="char:EOLhyphen"/>ſires, and allay and fix my good People to
+<pb n="5" facs="tcp:29787:6"/>
+a due temperament, to their own juſt con<g ref="char:EOLhyphen"/>tent, and mine.</p>
+            </sp>
+            <sp>
+               <speaker>Politician.</speaker>
+               <p>May it pleaſe your Majeſty to reduce the various diſagreeing Parties within this Kingdom, which ſeem to ren<g ref="char:EOLhyphen"/>der it an indigeſted maſs of people, to ſuch a temperature as may compoſe all Affairs, both Religious and Civil, within your Majeſties Dominions. There are but three ways imaginable: The firſt way is to raiſe one Party by the fall and ruine of all other Parties; which, if poſſible, can<g ref="char:EOLhyphen"/>not be accompliſhed but by violent ways and means.</p>
+               <p>The ſecond way, is, to think of ſuch an Accommodation, as by the mutual yeild<g ref="char:EOLhyphen"/>ing of the ſeveral Parties, former diffe<g ref="char:EOLhyphen"/>rences may be aboliſhed, and all recon<g ref="char:EOLhyphen"/>cilable Profeſſors may be reconciled; and ſuch a comprehenſive Coalition of all In<g ref="char:EOLhyphen"/>tereſts be endeavoured, as may take in, and carry along the whole ſtream and ſtrength of the three Kingdoms.</p>
+               <p>The third way, is, to indulge a Tolera<g ref="char:EOLhyphen"/>tion to the weaker ſide, whoſe ſtrength a Charitable Connivence and Chriſtian In<g ref="char:EOLhyphen"/>dulgence may weaken, when as a tougher Oppoſition may fortifie it: a ſevere Im<g ref="char:EOLhyphen"/>poſition
+<pb n="6" facs="tcp:29787:7"/>
+putting the deſpiſed and oppreſ<g ref="char:EOLhyphen"/>ſed Party into ſuch Combinations, as may moſt enable them to get a full Revenge on thoſe they count their Perſecutors; they being commonly aſſiſted and encouraged with that vulgar pity and compaſſion which is allowed all that are ſaid to ſuffer for their Conſcience and Religion. A courſe very agreeable in my opinion to that exact Policy which ſupports the moſt flouriſhing Kingdom of <hi>France, &amp;c.</hi> and States of <hi>Holland,</hi> in an admired Gran<g ref="char:EOLhyphen"/>deur, made up of Peace, Plenty and Pro<g ref="char:EOLhyphen"/>ſperity; which we envy, but cannot at<g ref="char:EOLhyphen"/>tain to.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>I muſt needs interrupt you; and though <hi>I</hi> approve the <hi>faithfulneſs, I</hi> cannot allow the <hi>prudence</hi> of your advice: for you muſt all know, that <hi>I</hi> am perſwaded that in matter of Religion we muſt follow not ſo much what is moſt <hi>prudent,</hi> as what is moſt <hi>pious;</hi> not onely what is <hi>expedient,</hi> but what is <hi>lawful;</hi> not what ſeems beſt <hi>in rea<g ref="char:EOLhyphen"/>ſon of State,</hi> but what ſeems beſt <hi>in the coun<g ref="char:EOLhyphen"/>ſel of God:</hi> and therefore before you pro<g ref="char:EOLhyphen"/>ceed, <hi>I</hi> muſt let you know, that you muſt not inſiſt on forraign Policies, and Pro<g ref="char:EOLhyphen"/>ſperity in this or that way; but you muſt
+<pb n="7" facs="tcp:29787:7"/>
+faithfully inform me what <hi>I</hi> may do in Duty and Conſcience: which by Gods aſſiſtance <hi>I</hi> will do, and leave the ſucceſs to God.</p>
+            </sp>
+            <sp>
+               <speaker>Politician.</speaker>
+               <p>May it pleaſe your Majeſty, <hi>I</hi> preſumed not to inform or impoſe upon your Majeſty; but according to the duty of my place, <hi>I</hi> humbly offer what <hi>I</hi> think may be ſubſervient to your declared Mo<g ref="char:EOLhyphen"/>deration and Condeſcention, that the Ac<g ref="char:EOLhyphen"/>commodation begun by your gracious De<g ref="char:EOLhyphen"/>claration, may be entire and perfect, and fully ſettled to a perpetual unity.</p>
+            </sp>
+            <sp>
+               <speaker>Moderate Men.</speaker>
+               <p>It is the earneſt expecta<g ref="char:EOLhyphen"/>tion and hope of the Religious and Well-affected to Publick Peace, that as your gra<g ref="char:EOLhyphen"/>cious Diſpoſition doth not ſuffer you to cleave to any divided Party of your Sub<g ref="char:EOLhyphen"/>jects, to the diſcouragement of others that are alike truely Loyal: ſo, as a common Father, you will protect &amp; cheriſh all thoſe that are found capable and worthy, and be our great Moderator, by your Autho<g ref="char:EOLhyphen"/>rity and Wiſdom, to leſſen Differences, to allay Animoſities between diſſenting Bre<g ref="char:EOLhyphen"/>thren, which already agree in the main points of Religion.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>What do you adviſe me to do?</p>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:29787:8"/>
+               <speaker>The Indifferent.</speaker>
+               <p>Truly in theſe great va<g ref="char:EOLhyphen"/>rieties of Opinions that trouble the world, to maintain particular Opinions againſt others is in the experience of all Ages but to widen Differences, and to make Diviſi<g ref="char:EOLhyphen"/>ons more vehement, more laſting, and more ſpreading, whiles every one is ſo ad<g ref="char:EOLhyphen"/>dicted to his own way, that he cannot al<g ref="char:EOLhyphen"/>low a charitable thought for any Diſſen<g ref="char:EOLhyphen"/>ter, nor let fall a good word for him, nor acknowledge a truth in him. Therefore <hi>I</hi> have always thought that the onely way of compoſing the troubles of the world in the matters of Religion, were to allow e<g ref="char:EOLhyphen"/>very man his liberty to ſerve God accor<g ref="char:EOLhyphen"/>ding to his Light and Conſcience; provi<g ref="char:EOLhyphen"/>ded he live ſoberly and peaceably.</p>
+            </sp>
+            <sp>
+               <speaker>B. Sanderſon.</speaker>
+               <p>God forbid that every one ſhould do what is good in his own eyes. Shall we now caſt away the Law of Na<g ref="char:EOLhyphen"/>ture, which in all Ages was allow<g ref="char:EOLhyphen"/>ed to help us to judge of good and evil?<note place="margin">6 Serm.</note> Shall we leave the Law of God, holy, juſt and good? Shall we reject the Laws of Order and Govern<g ref="char:EOLhyphen"/>ment, to which all men ſubmit in Reaſon, and all Chriſtians for Conſcience ſake? Shall we fear neither God nor man, but
+<pb n="9" facs="tcp:29787:8"/>
+walk <hi>in the ways of our own hearts,</hi> live after our own devices, be our own Law? Shall we live to our ſelves? Shall we die to our ſelves? Shall we, who, in our Religion, profeſs to deny our ſelves and our own ways, own nothing but our ſelves and our own ways? Is it in man that walketh to direct his ſteps? Shall every man go his own way, when all fleſh have corrupted their ways?</p>
+            </sp>
+            <sp>
+               <speaker>B. Reynolds.</speaker>
+               <p>It's one of our greateſt ſins to be Self-movers, to be a Rule, to be a God to our ſelves.<note place="margin">Life Chriſt, pag. 425.</note> It's one of Gods extreameſt Judge<g ref="char:EOLhyphen"/>ments to give us over to our ſelves, and leave us to follow our own Rules. When he hath wooed us by his Spirit, and he is refuſed; he teacheth us by his Prophets, and they are reviled; governs us by his Magiſtrates, and they are diſobeyed: when he offers to teach us, and we ſtop our ears; to lead us, and we pull away the ſhoulder; to reſtrain us, and we break out: when we non-plus and poſe all the methods and ways appointed of God, and obſerved by men, to keep us within the bounds of ſobriety, piety, peace and hone<g ref="char:EOLhyphen"/>ſty; it's his laſt Judgement upon us, to let
+<pb n="10" facs="tcp:29787:9"/>
+us be a Rule and a Way unto our ſelves. <hi>My people would not hearken unto my voice, and Iſrael would have none of me: ſo I gave them up to their own hearts luſts, to walk after their own counſels,</hi> Pſalm 81.11, 12. <hi>Non ex arbitrio Deo ſerviendum eſt, ſed Impe<g ref="char:EOLhyphen"/>rio.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B. Gauden,</speaker>
+               <stage>p. 143.</stage>
+               <p>I acknowledge and allow that juſt plea which is made by lear<g ref="char:EOLhyphen"/>ned and godly men for Chriſtians mutual bearing with, and forbearing one another in caſes of private and modeſt Differences, either in Opinions or Practices: I would willingly yeild to all men, much more to all Chriſtians, that Liberty, Natural, Ci<g ref="char:EOLhyphen"/>vil, and Religious, which may conſiſt with Scripture, Precept, and Right Reaſon, with grounds of Morality and Society; which is as much as I deſire to uſe or enjoy my ſelf in point of private Opinion, and pub<g ref="char:EOLhyphen"/>lick Profeſſion. I know Religion is not to be forced, but perſwaded, as matter of choice, not of conſtraint; whereunto ratio<g ref="char:EOLhyphen"/>nal men are not to be compelled, but to be convinced with meekneſs of wiſdom: yet becauſe experience teacheth us, that ſuch is the infirmity and weakneſs of ſome peo<g ref="char:EOLhyphen"/>ple, that they cannot finde out of them<g ref="char:EOLhyphen"/>ſelves
+<pb n="11" facs="tcp:29787:9"/>
+the truths of God, which are the grounds of true Religion; ſuch is the la<g ref="char:EOLhyphen"/>zineſs and indifference of others, as to neg<g ref="char:EOLhyphen"/>lect all means that might help them; and ſuch is the pride and peeviſhneſs of others, that they muſt needs be ſingular: For theſe, and other weighty Reaſons, Chriſtian Re<g ref="char:EOLhyphen"/>ligion ought not to be left looſe, without any limits or reſtraints upon their licenti<g ref="char:EOLhyphen"/>ouſneſs, who cannot endure any thing ſo<g ref="char:EOLhyphen"/>lid, ſtrict, or ſettled in Religion, as to them<g ref="char:EOLhyphen"/>ſelves or others, whereby they may live in any godly order upon Principles eſtabliſh<g ref="char:EOLhyphen"/>ed by publick conſent, upon moſt mature Deliberation, and impartial advice, in or<g ref="char:EOLhyphen"/>der to Gods glory, and the common good of humane ſociety. Therefore in all hu<g ref="char:EOLhyphen"/>mility I offer that we may have ſome wiſe and grand Eſtabliſhment, which ſhould be the Rule of the publick Doctrine, Wor<g ref="char:EOLhyphen"/>ſhip and Government. This in all upright<g ref="char:EOLhyphen"/>neſs ought to be ſet before all people; and not onely propounded and commended to them, but ſo far commanded and enjoyned by Authority, as none ſhould neglect it, or vary from it, without giving account: much leſs ſhould any man publickly ſcorn or contemn it, or the Miniſters and Di<g ref="char:EOLhyphen"/>ſpenſers
+<pb n="12" facs="tcp:29787:10"/>
+of it, by writing, ſpeech or action, to the ſcandal of the whole Church and Nation: whoſe Conſtitutions ought to be received with all godly fear and reve<g ref="char:EOLhyphen"/>rence, entertained with ſollicitous dili<g ref="char:EOLhyphen"/>gence, maintained with honourable muni<g ref="char:EOLhyphen"/>ficence; all containing themſelves within the bounds of charitable union, and hum<g ref="char:EOLhyphen"/>ble ſubjection: ſo as no private fancy upon any pretence whatſoever be permitted rudely and publickly to oppoſe the univer<g ref="char:EOLhyphen"/>ſal Conſtitution.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Baxter and Mr. Brinſley.</speaker>
+               <p>God forbid that faln man ſhould be left to himſelf. If poor ſouls be left without controul to the errour of their own ways, they are undone for ever. If a bare connivence at theſe ſe<g ref="char:EOLhyphen"/>veral Opinions hath bred ſo much miſery, what do you think will a Toleration do? a Toleration of all ſorts of Opinions, which is by ſome, and thoſe more then a good many, under the abuſed notion of Liberty of Conſcience, pleaded for. For my own part, ſhould this be once yeilded, (which I hope their eyes ſhall firſt fail who look for it) I ſhould look upon it as the Paſſing-bell to the Churches peace and glory, if not to the true Religion of God in this Kingdom.</p>
+            </sp>
+            <sp>
+               <pb n="13" facs="tcp:29787:10"/>
+               <speaker>Mr. Vines,</speaker>
+               <stage>p. 76.</stage>
+               <p>The chiefeſt apparent Cauſe, and moſt pregnant outward occaſi<g ref="char:EOLhyphen"/>on of our Eccleſiaſtick miſchief and miſe<g ref="char:EOLhyphen"/>ries, ariſe from inordinate liberty, and im<g ref="char:EOLhyphen"/>modeſt freedom; which of later years all ſorts of people have challenged to them<g ref="char:EOLhyphen"/>ſelves in matter of Religion, preſuming on ſuch a toleration and indulgence as en<g ref="char:EOLhyphen"/>courageth them to chuſe and adhere to what Doctrine, Opinion, Party, Perſwa<g ref="char:EOLhyphen"/>ſion, Fancy or Faction they liſt. Are not the errours which are rife amongſt us, ei<g ref="char:EOLhyphen"/>ther by infecting perſons of quality, grown to that boldneſs; or by carrying away <hi>Barnabas</hi> alſo, grown into that credit; or by ſpreading far and wide, grown to that ſtrength, that they ſeem to endanger our common Faith, our publick Worſhip, and authorized Miniſtry; our much expected, and long promiſed Reformation?</p>
+            </sp>
+            <sp>
+               <speaker>Aſſembly-Divines.</speaker>
+               <p>There is no State in <hi>Chriſtendome</hi> where there is one onely Religion eſtabliſhed, that will admit the publick exerciſe of any other in a way of ſeparation from it. And the Church of God before Chriſt gran<g ref="char:EOLhyphen"/>ted no toleration of divers Religions or Diſciplines, and of ſeveral Parties, ſo con<g ref="char:EOLhyphen"/>trary
+<pb n="14" facs="tcp:29787:11"/>
+to the Communion of Saints. We believe and profeſs one God, one Chriſt, one Lord, one Spirit, one Faith, one Ba<g ref="char:EOLhyphen"/>ptiſm, and one Body.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Burroughs,</speaker>
+               <stage>p. 62.</stage>
+               <p>If every man ſhall not walk according to his own light, ac<g ref="char:EOLhyphen"/>cording to what light ſhall he walk?</p>
+            </sp>
+            <sp>
+               <speaker>B. Gauden,</speaker>
+               <stage>p. 139.</stage>
+               <p>According to the Scripture-light, that hath beamed out up<g ref="char:EOLhyphen"/>on all Believers, in all Ages of the Church. He may indeed do what <hi>he will,</hi> but they that have power over him, muſt <hi>allow</hi> him to do <hi>nothing</hi> againſt <hi>the truth,</hi> but <hi>for</hi> the <hi>truth.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. Caryl,</speaker>
+               <stage>p. 36.</stage>
+               <p>It were a mercy if it were poſſible tender Conſciences were al<g ref="char:EOLhyphen"/>lowed to ſtand faſt in that liberty wherein Chriſt hath made them free.</p>
+            </sp>
+            <sp>
+               <speaker>B. Gauden,</speaker>
+               <stage>p. 142.</stage>
+               <p>I do not doubt but the greateſt Patrons for the peoples liber<g ref="char:EOLhyphen"/>ty in matters of Religion, will in time (if they do not already) ſee how great a cha<g ref="char:EOLhyphen"/>rity it is to put merciful reſtraints of reli<g ref="char:EOLhyphen"/>gious Order and Government upon them, which are no leſs neceſſary then thoſe ſhar<g ref="char:EOLhyphen"/>per curbs and yokes of civil Coercion. No wiſe States-man will think it fit in honeſty or ſafety to permit the common people to
+<pb n="15" facs="tcp:29787:11"/>
+do what is good in their own eyes, as if there were no King or ſupreme Magiſtrate in Iſrael: nor can any good Chriſtian think it fit, that in Religion every man ſhould be left to profeſs what he liſteth, as if there were no Chriſt as King and chief Biſhop of our ſouls; as if he had not left us clear and ſetled foundations of Faith, Worſhip, Order and Diſcipline, and what<g ref="char:EOLhyphen"/>ſoever is neceſſary to make us wiſe unto ſalvation, perfect unto every good work, in wholeſome forms of found words.—</p>
+            </sp>
+            <sp>
+               <speaker>B. Hall,</speaker>
+               <stage>p. 28.</stage>
+               <p>O do not deceive your ſelves: the liberty wherein Chriſt hath made you free, is from ſin that beguiled you; from fear, that troubled you; from an evil Conſcience, that diſturbed you; from the wrath of God, that was bent a<g ref="char:EOLhyphen"/>gainſt you; from the rigour of the Moral Law, that oppreſſed you; from Satan, that had dominion over you; from the Ceremonial Law, that enthralled you: and not from ſubjection to the wholeſome Injunctions of lawful Authority; your o<g ref="char:EOLhyphen"/>bedience to whom, is perfect liberty.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Manton,</speaker>
+               <stage>p. 137.</stage>
+               <p>Vain man would be free and yokeleſs; neither would he have his heart ſubject to God, nor his actions to mans cenſure.</p>
+               <p>
+                  <pb n="16" facs="tcp:29787:12"/>Some men will not have their conſcien<g ref="char:EOLhyphen"/>ces ſtand in the way of their luſt, nor the Magiſtrate in the way of their ſin; but e<g ref="char:EOLhyphen"/>very Chriſtian deſires to live under the Ma<g ref="char:EOLhyphen"/>giſtrate peaceable and quiet lives, in all godlineſs and honeſty.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Indeed, Mr. <hi>Caryl,</hi> if the divineſt liberty be to will what men ſhould, and to do what they ſo will according to Reaſon, Law and Religion; I envy not my Subjects that liberty, which is all I deſire my ſelf; ſo far am I from all deſire of oppreſſing theirs.</p>
+               <p>In point of true conſcientious tenderneſs, challenged with humility and meekneſs, not with proud and arrogant activity, which ſeeks to hatch every egge of opini<g ref="char:EOLhyphen"/>on to a faction or ſchiſm, I have often de<g ref="char:EOLhyphen"/>clared how little I deſire my Laws ſhould entrench on Gods Soveraignty, who is the onely King of all mens conſciences: and yet he hath laid ſuch reſtraints upon men, as commands them to be ſubject for con<g ref="char:EOLhyphen"/>ſcience ſake; giving no man liberty to break the Law eſtabliſhed, further then with meekneſs and patience they are con<g ref="char:EOLhyphen"/>tent to ſuffer the penalty annexed, rather then perturb the publick peace. Have I
+<pb n="17" facs="tcp:29787:12"/>
+any power, or have I not, to take care of matters of Religion, ſo that none may pre<g ref="char:EOLhyphen"/>ſume under my Government to own any Way different from what I conceive the ancient Catholick and Apoſtolick Way? I pray ſatisfie me in that.</p>
+            </sp>
+            <sp>
+               <speaker>B. Reynolds,</speaker>
+               <stage>p. 18, 16.</stage>
+               <p>Not to engage in any controverſie; onely thus much: The good Kings of <hi>Iſrael</hi> and <hi>Judah,</hi> before Chriſt, were commanded of God, and were ready of themſelves, to lay out their intereſt for the eſtabliſhment of the Way of God, and the abolition of all other Ways. The Prophets propheſied, That good Kings after Chriſts coming ſhould be Nurſing Fathers and Nurſing Mothers to the Church: every ſoul is ſubject to them, as who are over us for good, Spiritual and Temporal; and we are to pray for them, that we may live under them peaceable and quiet lives, in all godlineſs and honeſty. God hath given your Majeſty power, God hath given your Majeſty care; a power o<g ref="char:EOLhyphen"/>ver his people, a care of his glory: you muſt not bear the ſword in vain. If you muſt puniſh offences againſt men, you muſt much more puniſh offences againſt God: if you muſt take care that your Subjects
+<pb n="18" facs="tcp:29787:13"/>
+live well, you muſt take care that they be well principled: you muſt take care that your people be ſo ſubject to you, as you and your people may be ſubject to God. The King, ſaith St. <hi>Augustine,</hi> ſerveth God as a man, and as a King; as a man, by god<g ref="char:EOLhyphen"/>ly life; as a King, by godly Laws: as <hi>E<g ref="char:EOLhyphen"/>zekias,</hi> by deſtroying the Groves and Tem<g ref="char:EOLhyphen"/>ples of the Idols; and as <hi>Joſias,</hi> by compel<g ref="char:EOLhyphen"/>ling the people to ſerve the Lord their God; and doing other things for the ho<g ref="char:EOLhyphen"/>nour of God, which onely Kings can do. And we may obſerve in the Laws and Hi<g ref="char:EOLhyphen"/>ſtories of the Primitive times, what <hi>Socrates</hi> ſaid, <hi>That ever ſince the Emperour turned Chri<g ref="char:EOLhyphen"/>stian, the Affairs of the Church depended upon him: for the Church, as</hi> Optatus <hi>ſaith, is in the Commonwealth, not the Commonwealth in the Church.</hi> Beſides the Primitive Church, the Reformed Church of <hi>Belgia</hi> holds, <hi>p.</hi> 18. <hi>That the Magiſtrate ſhould hold faſt the Word of God, and ſee that nothing be taught contrary to it.</hi> The <hi>Helvetian</hi> ſaith, this Office was enjoy<g ref="char:EOLhyphen"/>ned the Heathen Magiſtrate, to take care that the Name of God be duly honoured: how much more doth it belong to the Chriſtian Magiſtrate, as the true Deputy of God in his Dominion? The <hi>Baſil</hi>-con<g ref="char:EOLhyphen"/>feſſion
+<pb n="19" facs="tcp:29787:13"/>
+hath it thus, <hi>That we muſt in all things ſubmit to God firſt, and next to the ſupreme Ma<g ref="char:EOLhyphen"/>gistrate.</hi> That the Lord hath intruſted you with a care of Religion, is a truth that hath been maintained always by the Pro<g ref="char:EOLhyphen"/>teſtant againſt the Papiſt, who onely for a great while appeared againſt your juſt power in that affair.</p>
+            </sp>
+            <sp>
+               <speaker>B. Gauden.</speaker>
+               <p>Nay, it is your intereſt to take care of Religion ſo, for that the hap<g ref="char:EOLhyphen"/>pineſs of your Kingdom doth depend upon the purity of Religion, and the peace of the Church; in which they are ſo bound up, as <hi>Jacobs</hi> ſoul was in <hi>Benjamin,</hi> that they live and die together: and therefore all wiſe Governours have ſtill countenanced the publick exerciſe of that Religion, which they owned and eſtabliſhed as beſt.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>How may I exerciſe this power, to reſtrain thoſe who maintain ſome Opi<g ref="char:EOLhyphen"/>nions contrary to the eſtabliſhed way?</p>
+            </sp>
+            <sp>
+               <speaker>B. Gauden.</speaker>
+               <p>You may reſtrain all that are heterodox, 1. By Eccleſiaſtical Diſci<g ref="char:EOLhyphen"/>pline, Admonitions, Reproofs, and Cen<g ref="char:EOLhyphen"/>ſures: and, 2. where that is deſpiſed, you may reſtrain them by the power of the Sword in your own hand, as one that not onely regards the civil peace of your ſub<g ref="char:EOLhyphen"/>jects,
+<pb n="20" facs="tcp:29787:14"/>
+but alſo that truſt which lieth on you to take care of their religious intereſts, and their ſouls welfare, that they may be taught and preſerved in the right way of <hi>knowing</hi> and <hi>ſerving</hi> God.</p>
+            </sp>
+            <sp>
+               <speaker>Libertine.</speaker>
+               <p>I hope you will not force our conſciences.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>I cannot force your conſciences.</p>
+            </sp>
+            <sp>
+               <speaker>Libertine.</speaker>
+               <p>You do it when you impoſe upon us ſuch things as we cannot in conſci<g ref="char:EOLhyphen"/>ence admit of.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>When I impoſe any thing you cannot ſubmit to, you may chuſe whether you obey me in doing it: onely if your con<g ref="char:EOLhyphen"/>ſciences cannot do it, you are to ſuffer for your conſcience.</p>
+            </sp>
+            <sp>
+               <speaker>Anabaptiſt.</speaker>
+               <p>How can you puniſh us for our conſciences?</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>I puniſh you not for your conſci<g ref="char:EOLhyphen"/>ences, but for what I think in my conſci<g ref="char:EOLhyphen"/>ence is ſuch an errour, as I dare not tole<g ref="char:EOLhyphen"/>rate in my Dominions.</p>
+            </sp>
+            <sp>
+               <speaker>Quaker,</speaker>
+               <stage>p. 38.</stage>
+               <p>How wilt thou anſwer before the Lord for oppreſſing his ſervants, that hold the Word of Gods patience, un<g ref="char:EOLhyphen"/>der pretence of errour? when thou think<g ref="char:EOLhyphen"/>eſt thou puniſheſt errour and erroneous perſons, the truth and children of God may lie a bleeding.</p>
+            </sp>
+            <sp>
+               <pb n="21" facs="tcp:29787:14"/>
+               <speaker>King.</speaker>
+               <p>As you, ſo I, muſt do my duty ac<g ref="char:EOLhyphen"/>cording to my conſcience: in conſcience I am bound to ſuppreſs what I really think is an errour; and if I miſtake, I hope it will pleaſe God that I have followed my con<g ref="char:EOLhyphen"/>ſcience, and that he will pardon my miſ<g ref="char:EOLhyphen"/>carriage, inſomuch as I did it ignorantly: as St. <hi>Paul,</hi> who ſaith of himſelf, <hi>I verily thought with my ſelf, that I ought to do many things contrary to the Name of Jeſus: which thing I alſo did in Jeruſalem, and many of the Saints did I ſhut up in priſon, and I puniſhed them oft in every Synagogue or Aſſembly; and being exceedingly mad againſt them, I perſecu<g ref="char:EOLhyphen"/>ted them even unto ſtrange cities.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sir H. Vane,</speaker>
+               <stage>p. 113.</stage>
+               <p>O the Lord Jeſus hath purchaſed an univerſal freedom for all men to walk according to the light of their own conſciences: <hi>Who art thou, O man, that judgeſt another mans ſervant?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. Finch,</speaker>
+               <stage>p. 14.</stage>
+               <p>It is not likely that the Lord Jeſus, who came into the world to bring all men to the <hi>pure Religion, and unde<g ref="char:EOLhyphen"/>filed before God,</hi> ſhould purchaſe an univer<g ref="char:EOLhyphen"/>ſal freedom for men to be of what Religion they pleaſed. It is not likely that he who prayed that all his Diſciples might be one, ſhould purchaſe them an univerſal liberty,
+<pb n="22" facs="tcp:29787:15"/>
+to be ſo many men, ſo many minds.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. Hammond,</speaker>
+               <stage>p. 317.</stage>
+               <p>It's true, one pri<g ref="char:EOLhyphen"/>vate man cannot judge another, but a Ma<g ref="char:EOLhyphen"/>giſtrate may. All men are Gods ſervants to be judged by him, and he hath commit<g ref="char:EOLhyphen"/>ted all judgement to the Son, who hath committed all judgement in any Nation to thoſe ſupreme Magiſtrates whom he hath appointed over that Nation; who are to execute the judgements of righteouſneſs and truth, <hi>as thoſe who judge not for man, but for the Lord.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>How is it poſſible for you to judge anothers opinion, ſeeing you are not infal<g ref="char:EOLhyphen"/>lible? you are aſſured no more that it is a truth, then <hi>I</hi> am.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>What I venture my ſalvation up<g ref="char:EOLhyphen"/>on, I may venture my Government upon: what I am ſo far aſſured of, that I throw mine own ſoul upon it; I am ſo far aſſu<g ref="char:EOLhyphen"/>red of, as to lay my whole duty upon it. <hi>I</hi> am not infallible, ſure, that I have the truth; yet I am infallible, ſure, that I ought to own that which I apprehend to be a truth. <hi>I</hi> judge not your opinion, but mine own, which I think ſo much a truth of God, that though you have liberty of conſcience to think what you pleaſe of my opinion, yet
+<pb n="23" facs="tcp:29787:15"/>
+                  <hi>I</hi> muſt not allow a liberty of practice, to do what you pleaſe againſt it; as in my Do<g ref="char:EOLhyphen"/>minions <hi>I</hi> ought not to ſuffer you to do any thing which <hi>I</hi> think againſt that God that hath reſtored me to my Dominions. Cer<g ref="char:EOLhyphen"/>tainly all humane judgement is ſubject un<g ref="char:EOLhyphen"/>to errour; and unleſs you will take away all humane judgement out of the world, you muſt acquieſce in the higheſt, whoſe errours are to be reſerved to the judgement of God.</p>
+            </sp>
+            <sp>
+               <speaker>Anabaptist.</speaker>
+               <p>Are not you worms of the earth as well as we? why ſhould you be Lords over our Faith?</p>
+            </sp>
+            <sp>
+               <speaker>Chancellour.</speaker>
+               <p>If you have Faith, have it to your ſelf; we are not Lords over your Faith, but over our own; we wiſh you all had the true Faith: but you may notwith<g ref="char:EOLhyphen"/>ſtanding believe what you pleaſe, accor<g ref="char:EOLhyphen"/>ding to the Faith you have; but you muſt not practiſe what you pleaſe againſt the Faith we have, and ought to maintain.</p>
+            </sp>
+            <sp>
+               <speaker>L.B.C.</speaker>
+               <p>You are Worms appointed of God to obey, and the Magiſtrates are Worms appointed of God to command.</p>
+            </sp>
+            <sp>
+               <speaker>Libertine.</speaker>
+               <p>Alas, we cannot follow this or that Way of yours if we would, until the Lord hath revealed it unto us.</p>
+            </sp>
+            <sp>
+               <pb n="24" facs="tcp:29787:16"/>
+               <speaker>King.</speaker>
+               <p>And <hi>I</hi> cannot allow this or that Way of yours, unleſs God hath revealed it unto me.</p>
+            </sp>
+            <sp>
+               <speaker>Seeker.</speaker>
+               <p>
+                  <hi>Paul,</hi> who never judged amiſs, had ſo much meekneſs in him, as to conceit if any one in this or that particular thought otherwiſe then himſelf, that God either had or would reveal it to him; and ſo ab<g ref="char:EOLhyphen"/>ſtained from cenſuring; when as you con<g ref="char:EOLhyphen"/>demn all that think not as you do.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Baxter,</speaker>
+               <stage>p. 118.</stage>
+               <p>
+                  <hi>Paul,</hi> who wiſhed them to wait until God revealed to them what they knew not, never allowed them a liberty to practice contrary to what they knew not.</p>
+            </sp>
+            <sp>
+               <speaker>B. Ferne,</speaker>
+               <stage>p. 17.</stage>
+               <p>Yes, the Apoſtle there wiſheth them to live according to what they profeſſed in common with others; and if any was otherwiſe minded, he ſhould not preſently follow his own mind, and walk in his own way, but wait until the Lord reveals it.</p>
+            </sp>
+            <sp>
+               <speaker>Libertine.</speaker>
+               <p>By forcing us, you may make us Hypocrites; but not real Converts to your way.</p>
+            </sp>
+            <sp>
+               <speaker>Secretary,</speaker>
+               <stage>p. 18.</stage>
+               <p>Indeed we hope ſo well of you, that we think you would not diſ<g ref="char:EOLhyphen"/>ſemble a Religion for any hardſhips in the
+<pb n="25" facs="tcp:29787:16"/>
+world: and we muſt aſſure you, that we do not uſe force to convert you to our way, but to clear our ſelves from any allowance of your way: we uſe Reaſon to convert you, we uſe Force onely to clear our ſelves.</p>
+            </sp>
+            <sp>
+               <speaker>The Indifferent.</speaker>
+               <p>If it be in mine own pow<g ref="char:EOLhyphen"/>er to be in the right, you cannot tell but that <hi>I</hi> am ſo; if it be Gods work, you can<g ref="char:EOLhyphen"/>not blame me if I am not: his gifts are free, and diſpenſeth as himſelf pleaſeth; and my errour is my miſery, and not my fault.</p>
+            </sp>
+            <sp>
+               <speaker>L.O.J.</speaker>
+               <stage>p. 16.</stage>
+               <p>The Church doth not pu<g ref="char:EOLhyphen"/>niſh you for being in the wrong, which you cannot (it may be) help, (although I could wiſh you would heartily endeavour all the means to come to the right;) but for doing what is contrary to that which is eſtabliſhed as right, which you may help. You may chuſe whether you think as we think, and you may chuſe whether you ſhould do or teach as you do, what is ſo ſcandalous to the Church, and ſo repug<g ref="char:EOLhyphen"/>nant to publick Authority.</p>
+            </sp>
+            <sp>
+               <speaker>Anabaptiſt.</speaker>
+               <p>For you to ſuppreſs what<g ref="char:EOLhyphen"/>ever is done or taught againſt the received Way, is to hold the truth in unrighteouſ<g ref="char:EOLhyphen"/>neſs.</p>
+            </sp>
+            <sp>
+               <pb n="26" facs="tcp:29787:17"/>
+               <speaker>B. Gauden.</speaker>
+               <p>Becauſe it is poſſible that ſome truths of Religion may be unſeen, and ſo omitted by the moſt publick Di<g ref="char:EOLhyphen"/>ligence; and ſome may afterwards be diſcovered by private induſtry and devoti<g ref="char:EOLhyphen"/>on, which ought not to be ſmothered or concealed, if they have the Character of Gods Will revealed in his written Word, whoſe true meaning is the fixed meaſure, and unalterable Rule of all true Religion: to prevent the ſuppreſſing or detaining any Truth which may be really offered unto any Church or Chriſtians beyond what is publickly owned and eſtabliſhed; alſo to avoid the fooliſh obtruding whatever No<g ref="char:EOLhyphen"/>velty any mans fancie liſteth to ſet up, up<g ref="char:EOLhyphen"/>on his own private account, contrary to the publick eſtabliſhment: nothing were more neceſſary and happy then to have in every National Church which hath agreed with one heart, one minde, one ſpirit, and one mouth, to ſerve the Lord Jeſus, accor<g ref="char:EOLhyphen"/>ding to the pattern of primitive Piety and Wiſdome, perſons of eminent Learning, Wiſdome and Integrity, publickly choſen, and appointed, to try and examine all new Opinions publickly propounded; no man being to print or publiſh any thing diffe<g ref="char:EOLhyphen"/>rent
+<pb n="27" facs="tcp:29787:17"/>
+from the publick eſtabliſhment of Re<g ref="char:EOLhyphen"/>ligion, until he hath firſt humbly pro<g ref="char:EOLhyphen"/>pounded to the Church, or to reverend men appointed by the Church, his Opini<g ref="char:EOLhyphen"/>on in writing; together with his Reaſons, why he adds or differs from the publick profeſſion. <hi>Let the prophets propheſie one by one, and let the others judge.</hi> If the Church allows his Opinion and Reaſons pro<g ref="char:EOLhyphen"/>pounded, he may then publiſh his judge<g ref="char:EOLhyphen"/>ment by preaching, diſputing, writing or printing: if it doth not, he ſhall then keep his Opinion to himſelf, in the bounds of private conference onely for his own ſatis<g ref="char:EOLhyphen"/>faction, but in no way to publicate it, to the ſcandal or perturbation of what is ſet<g ref="char:EOLhyphen"/>led in Religion. Here every man may en<g ref="char:EOLhyphen"/>joy his ingenuous liberty as to private diſ<g ref="char:EOLhyphen"/>ſenting, without any blame or penalty; which he ſhall incur or undergo, in caſe he doth ſo broach any thing without leave, as a rude Innovator, and proud Diſturber.</p>
+            </sp>
+            <sp>
+               <speaker>B. Uſher,</speaker>
+               <stage>p. 118.</stage>
+               <p>Private and modeſt diſ<g ref="char:EOLhyphen"/>ſentings among brethren, ſafely may, and charitably ought to be born, with all Chri<g ref="char:EOLhyphen"/>ſtian meekneſs and wiſdome; no private Chriſtian being forced to any explicite Conformity or Subſcription, under penalty
+<pb n="28" facs="tcp:29787:18"/>
+of any mulct or priſon, much leſs with the terrour of fire and faggot, which was the violence of Papal Tyranny: onely they ſhould take care that people be duly taught that Religion which is ſetled; that none be a publick Preacher that is a declared Diſſenter or Upholder of it; that no man doth broach any Novelty without their approbation; that no man oppoſe, ſcorn, or perturb that conſtitution of Religion which is publickly ſetled, as ſuppoſed to be the beſt; that no man abuſe the name of Chriſtian liberty to the Publicks injury, making it a cloak of maliciouſneſs; <hi>and that we be not ever learning, and never coming to the knowledge of ſaving and neceſſary truth; that we be not still toſſed to and fro, with every wind of doctrine,</hi> and never caſt anchor up<g ref="char:EOLhyphen"/>on the ſure and ſafe grounds of an whole<g ref="char:EOLhyphen"/>ſome form of ſound words.</p>
+               <p>Poor ſouls are undone and periſh for e<g ref="char:EOLhyphen"/>ver, if they be <hi>betrayed</hi> to themſelves; if God and good men be not better to them then they deſire or deſigne to themſelves, either in things ſacred or civil; if there be not in juſt and honeſt ways ſuch holy re<g ref="char:EOLhyphen"/>ſtraints and wholeſome ſeverities laid upon them, as may keep them within the bounds of ſobriety and piety.</p>
+               <p>
+                  <pb n="29" facs="tcp:29787:18"/>The Lord may diſpenſe the beams of his Spirit in the light of truth, as well as in the heat of love, how, where, and when he will; yea, and oft doth reveal his ſecret and hidden things not to the wiſe and lear<g ref="char:EOLhyphen"/>ned, but to the babes and fooliſh: there<g ref="char:EOLhyphen"/>fore a publick liberty at leaſt, and a fair toleration ought to be granted to any men to opine, to teach, and accordingly to act as they are inwardly perſwaded or moved, without any reſtraint upon their ſpirits, or quenching of the Spirit of God.</p>
+            </sp>
+            <sp>
+               <speaker>B. Gauden:</speaker>
+               <p>We deſire not to quench the work of Gods Spirit in any man, but to re<g ref="char:EOLhyphen"/>ſtrain the workings of a mans own errours, according to the will of God; to which to ſubject our ſelves, is our moſt perfect free<g ref="char:EOLhyphen"/>dom. Perfect freedom is to be able with<g ref="char:EOLhyphen"/>out ſinful impediments to underſtand, to ſpeak, and to do ſuch things as we ought to God or man, in ſuch a way as charity, ſo<g ref="char:EOLhyphen"/>briety, order and gravity, allow.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſts.</speaker>
+               <p>We hope your Majeſty, out of the ſenſe of our Loyalty in theſe diſturbed times, will be pleaſed to allow us ſuch in<g ref="char:EOLhyphen"/>dulgence, as they may deſerve who diſſent from the publick Way peaceably and ſo<g ref="char:EOLhyphen"/>berly.</p>
+            </sp>
+            <sp>
+               <pb n="30" facs="tcp:29787:19"/>
+               <speaker>King.</speaker>
+               <p>What you have done, was but your duty: for your Loyalty to me in civil things, you ſhall have protection from me in thoſe things too: for an indulgence to your Religion, I muſt conſult my Divines. What ſay you, my Lord of <hi>Canterbury?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Archb. Abbot.</speaker>
+               <p>
+                  <hi>I</hi> fear <hi>I</hi> have offended by my too long ſilence. <hi>I</hi> muſt needs ſay, that your Majeſty is undone if you tolerate a Religion ſo diſpleaſing to God, ſo dange<g ref="char:EOLhyphen"/>rous to all humane ſtates and ſocieties. Now I have delivered mine own ſoul, you may do with me what you pleaſe.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſts.</speaker>
+               <p>Why is it that we are ſo ſevere<g ref="char:EOLhyphen"/>ly cenſured?</p>
+            </sp>
+            <sp>
+               <speaker>B. Uſher,</speaker>
+               <stage>p. 67.</stage>
+               <p>Becauſe your Religion is idolatrous, your Doctrine heretical, and your Church in reſpect of both Apoſtati<g ref="char:EOLhyphen"/>cal. To give you therefore a toleration, or to conſent that you may freely exerciſe your Religion, and profeſs your Faith and Doctrine, is a grievous ſin, whereby we are Acceſſories to your Deluſions, and like to be partakers of your plagues: and therefore we beſeech the zealous God of truth, to make you who are in Authority zealous of Gods glory, and of the advance<g ref="char:EOLhyphen"/>ment of true Religion; zealous, reſolute,
+<pb n="31" facs="tcp:29787:19"/>
+and couragious againſt all Popery, Super<g ref="char:EOLhyphen"/>ſtition and Idolatry.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſts.</speaker>
+               <p>We hope you will deal as fa<g ref="char:EOLhyphen"/>vourably with us, as you would be dealt withal in thoſe Countries where our Reli<g ref="char:EOLhyphen"/>gion prevails.</p>
+            </sp>
+            <sp>
+               <speaker>Proteſtants.</speaker>
+               <p>Our greateſt rigours reach not your perſecutions in forreign parts: we would yet be merciful unto you, if we could without being cruel to our own ſouls.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſts.</speaker>
+               <p>Your favour here to us, may o<g ref="char:EOLhyphen"/>blige other Princes to oblige your friends abroad.</p>
+            </sp>
+            <sp>
+               <speaker>Proteſtants:</speaker>
+               <p>We muſt not do evil that good may come; therefore we muſt diſ<g ref="char:EOLhyphen"/>countenance your errours: you may if you will diſcountenance our truths.</p>
+            </sp>
+            <sp>
+               <speaker>Papists.</speaker>
+               <p>It's true, ſome practices againſt the State deſerved this ſeverity formerly; but our peaceable behaviour may deſerve an indulgence now.</p>
+            </sp>
+            <sp>
+               <speaker>Protestants.</speaker>
+               <p>Your behaviour may deſerve an indulgence, but not your principles: you are ſo tied to the Supremacy at <hi>Rome,</hi> that you cannot be true (if you will be true to your own Profeſſion) to our Govern<g ref="char:EOLhyphen"/>ment.</p>
+            </sp>
+            <sp>
+               <pb n="32" facs="tcp:29787:20" rendition="simple:additions"/>
+               <speaker>Papiſts.</speaker>
+               <p>The Hugonots have an indul<g ref="char:EOLhyphen"/>gence in <hi>France.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Proteſtants.</speaker>
+               <p>They have no more then they fought for, though they have more then (as appears by your ſeveral attempts to un<g ref="char:EOLhyphen"/>dermine their liberties) you are willing they ſhould have.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſts.</speaker>
+               <p>It were no harm to indulge us: if your Religion were true, your truth would triumph over our falſhood.</p>
+            </sp>
+            <sp>
+               <speaker>Proteſtants.</speaker>
+               <p>No people ever ſuffered an Enemy to ſettle in their Country, that they might triumph over them.</p>
+            </sp>
+            <sp>
+               <speaker>An ill-affected perſon.</speaker>
+               <p>They have already what amounts to a toleration.</p>
+            </sp>
+            <sp>
+               <speaker>Proteſtants.</speaker>
+               <p>No: the King indeed doth not force them to come over to our Religi<g ref="char:EOLhyphen"/>on, (becauſe he thinks Religion muſt be perſwaded, and not forced) yet he doth not allow the practice of their Religion: he doth not compel them to come to us, and he doth not ſuffer us to be ſeduced to come over to them.</p>
+            </sp>
+            <sp>
+               <speaker>The Indifferent.</speaker>
+               <p>Alas, the Popiſh Reli<g ref="char:EOLhyphen"/>gion is ſo ridiculous, that to tolerate it publickly were to expoſe it.</p>
+            </sp>
+            <sp>
+               <speaker>Protestants.</speaker>
+               <p>Alas, what is ridiculous to the wiſe, is very pleaſing to the vulgar, who
+<pb n="33" facs="tcp:29787:20"/>
+are the moſt part of mankinde; and where they have one Proſelyte to their Devotion, they have ten to their pomp, glory.—</p>
+            </sp>
+            <sp>
+               <speaker>Papiſts.</speaker>
+               <p>The more danger of our Prieſts, the more care ſhould be taken by your Mi<g ref="char:EOLhyphen"/>niſters.</p>
+            </sp>
+            <sp>
+               <speaker>Proteſtants.</speaker>
+               <p>But we muſt not let in the Wolves, that the Shepherd may be care<g ref="char:EOLhyphen"/>ful.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſts.</speaker>
+               <p>May it pleaſe your Majeſty that we may live peaceably as your other Sub<g ref="char:EOLhyphen"/>jects, and not be compelled to your profeſ<g ref="char:EOLhyphen"/>ſion, though we enjoy not the liberty of our own?</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>
+                  <hi>In the multitude of Counſellours there is ſafety.</hi> We ſhall adviſe with our Nobility, Clergy and Commons what may be done in your favour: for to deal truely with you, it is not my intention to exclude you from all ſhare in the benefit of ſuch an Act as the wiſdome of our Parliament ſhall think fit to offer unto us for the eaſe of ten<g ref="char:EOLhyphen"/>der conſciences. VVe intend to abate the rigour of ſome Laws, as not being able to endure that any of our Subjects ſhould be put to death for their opinions in matter of Religion onely: and indeed as we cannot in conſcience own or indulge your way, ſo
+<pb n="34" facs="tcp:29787:21" rendition="simple:additions"/>
+we ſhall not puniſh your diſſent from us a<g ref="char:EOLhyphen"/>ny otherwiſe then with ſome marks of our diſpleaſure for not cloſing with the eſta<g ref="char:EOLhyphen"/>bliſhed Religion.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſts.</speaker>
+               <p>So, pray God bleſs your Maje<g ref="char:EOLhyphen"/>ſty.</p>
+            </sp>
+            <sp>
+               <speaker>Ill-affected perſons.</speaker>
+               <p>If Popery be naught, why are Papiſts ſuffered? if not, why are they puniſhed?</p>
+            </sp>
+            <sp>
+               <speaker>Honeſt Proteſtants.</speaker>
+               <p>Though his Majeſty ſuffers Papiſts as his liege people, yet he ſuffers not Popery; and yet he ſuffers not Papiſts without ſome marks of his diſplea<g ref="char:EOLhyphen"/>ſure.</p>
+            </sp>
+            <sp>
+               <speaker>Whiſperer.</speaker>
+               <p>Why doth the King puniſh men for what is their conſcience?</p>
+            </sp>
+            <sp>
+               <speaker>The Loyal.</speaker>
+               <p>He puniſheth them not for their conſciences, which he knows not, but for their outward actions, which he knows: he meaſureth their practice by the Law, by which he is to judge and govern; he re<g ref="char:EOLhyphen"/>ferreth their conſciences to God.</p>
+            </sp>
+            <sp>
+               <speaker>Non-conformiſts.</speaker>
+               <p>We humbly beſeech your moſt excellent Majeſty to allow us to enjoy our conſciences and judgements in ſerving our God.</p>
+            </sp>
+            <sp>
+               <speaker>State.</speaker>
+               <p>We could grant your liberty as to your own practice, but we muſt deny you
+<pb n="35" facs="tcp:29787:21"/>
+the liberty of ſeducing others. I will not puniſh you for being miſled into errour, but I muſt reſtrain you from ſpreading your errours: I ſhall wink at your weak<g ref="char:EOLhyphen"/>neſs, but I ſhall puniſh wilfulneſs.</p>
+            </sp>
+            <sp>
+               <speaker>Their followers.</speaker>
+               <p>May our eyes but ſee our Teachers, and we enjoy their faithful La<g ref="char:EOLhyphen"/>bours.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Though his Majeſty hath compaſſi<g ref="char:EOLhyphen"/>on on this ſeduced Age, he intends not that the next Age ſhould be ſeduced too. Do you think in your Conſcience that his Ma<g ref="char:EOLhyphen"/>jeſty may ſuffer that to be taught which he thinks is an errour?</p>
+            </sp>
+            <sp>
+               <speaker>E. Man.</speaker>
+               <p>How ſhall the poor men live?</p>
+            </sp>
+            <sp>
+               <speaker>L. P.</speaker>
+               <p>No Church or State muſt allow maintenance to ſuch perſons as oppoſe the Order and Government of that Church or State.</p>
+            </sp>
+            <sp>
+               <speaker>P. M.</speaker>
+               <p>Alas, that ſuch eminent men ſhould be laid aſide for indifferent things!</p>
+            </sp>
+            <sp>
+               <speaker>E. B.</speaker>
+               <p>They are not laid aſide for indif<g ref="char:EOLhyphen"/>ferent things, but for that great fault of diſobeying Authority, which enjoyns thoſe indifferent things. The things command<g ref="char:EOLhyphen"/>ed are indifferent; Obedience to the Com<g ref="char:EOLhyphen"/>mand about things indifferent, is neceſſa<g ref="char:EOLhyphen"/>ry: what cloaths I wear, what geſtures I
+<pb n="36" facs="tcp:29787:22"/>
+uſe, is indifferent; that I wear ſuch cloaths, and uſe ſuch geſtures as are commanded, is neceſſary.</p>
+            </sp>
+            <sp>
+               <speaker>Non-conformiſts.</speaker>
+               <p>May it pleaſe your Ma<g ref="char:EOLhyphen"/>jeſty that we have liberty to joyn with our people in pure Worſhip and Ordinances, giving good ſecurity that we neither ſpeak nor do any thing publickly againſt the e<g ref="char:EOLhyphen"/>ſtabliſhed order of the Kingdom.</p>
+            </sp>
+            <sp>
+               <speaker>S. O.</speaker>
+               <p>As for thoſe of you who (living peaceably) cannot conform through ſcru<g ref="char:EOLhyphen"/>ple and tenderneſs of miſguided Conſci<g ref="char:EOLhyphen"/>ence, care may be taken that they modeſt<g ref="char:EOLhyphen"/>ly and without ſcandal perform their own devotion in their own way.</p>
+            </sp>
+            <sp>
+               <speaker>Anabaptiſts.</speaker>
+               <p>We are under a ſcandal of diſobedience to Governours, and turbu<g ref="char:EOLhyphen"/>lency; but as we reſolve in the fear of God to ſubmit to your Government as far as lawfully we may, ſo we deſire your favour and indulgence.</p>
+            </sp>
+            <sp>
+               <speaker>Conformists and Non-conformiſts.</speaker>
+               <p>Your Principles have been ſo dangerous, your practice ſo infamous here and in <hi>Germany,</hi> (your judgement and practice being ſo void of meekneſs, modeſty, charity, hu<g ref="char:EOLhyphen"/>manity and innocency) that your errour is not thought venial, nor your difference
+<pb n="37" facs="tcp:29787:22"/>
+tolerable, as ariſing by degrees to tumults, ſeditions, and contempt of all Chriſtian Magiſtrates and Miniſters.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Nay, but I hope there are ſome of my ſubjects of that Way who have ſin<g ref="char:EOLhyphen"/>cerity to God-ward, and charity to thoſe Chriſtians who in this differ from them: for whom (as long as they behave them<g ref="char:EOLhyphen"/>ſelves ſoberly) <hi>I</hi> have an equal kindneſs with the reſt of my ſubjects, without any reſpect of perſons.</p>
+            </sp>
+            <sp>
+               <speaker>Quakers.</speaker>
+               <p>
+                  <hi>O King, live for ever!</hi> We do in love adviſe thee to remove the yoke from the ſervants of the Lord, who deſire nothing but to walk humbly with him, and to tremble at his Word.</p>
+            </sp>
+            <sp>
+               <speaker>P. O.</speaker>
+               <p>If you can agree upon a way to ſerve God, and offer it to the State, you may have protection from the King as far as your way is judged agreeable to truth: as yet the world hath not ſeen what you deſire, and ſo know not what to grant you.</p>
+            </sp>
+            <sp>
+               <speaker>Seekers.</speaker>
+               <p>We deſire to try all things, and to hold faſt that which is good, and that nothing be impoſed upon us.</p>
+            </sp>
+            <sp>
+               <speaker>Orthodox.</speaker>
+               <p>Nevertheleſs whereunto we have already attained, let us walk by the ſame Rule, let us minde the ſame things:
+<pb n="38" facs="tcp:29787:23"/>
+if in any thing ye be otherwiſe minded, God ſhall reveal even this unto you.</p>
+            </sp>
+            <sp>
+               <speaker>Fifth Monarchy-men.</speaker>
+               <p>Why do you wait here on men, while you ſhould pray unto the Lord that he would haſten his King<g ref="char:EOLhyphen"/>dome, that the Saints may inherit the earth?</p>
+            </sp>
+            <sp>
+               <speaker>Orthodox.</speaker>
+               <p>We wait upon men whom the Lord hath appointed over his King<g ref="char:EOLhyphen"/>dom in this world; we wait upon the Lord for his Kingdom which is not of this world.</p>
+               <stage>Roaring Boys, Ranters, and Dammers.</stage>
+               <p>Here's ſuch a deal of do, come, let us eat and drink, for to morrow we ſhall die: the world hath been too long Prieſt-ridden.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>No more of that: I'll aſſure you that at the next Seſſion of Parliament we ſhall provide ſevere Laws againſt that li<g ref="char:EOLhyphen"/>centiouſneſs and impiety, which ſince the diſſolution of Government we finde to our great grief hath over-ſpread the Nation.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Gentlemen of all Perſwaſions, I pray hear what indulgence maybe allowed you.</p>
+            </sp>
+            <sp>
+               <speaker>Secretary,</speaker>
+               <stage>to Papiſts.</stage>
+               <p>What if you of the Catholick Way were diſcharged of all pe<g ref="char:EOLhyphen"/>nalty for Recuſancie to come to our Church, ſave your incapacity of having
+<pb n="39" facs="tcp:29787:23"/>
+any truſt in Church or State? provided that you were ſeverely reſtrained both from ſpeaking and publickly practiſing your Way.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſts.</speaker>
+               <p>We'll all ſubmit. As we do do not deſire to be preſſed to comply with your Ways, ſo we deſire not to preſs you to tolerate our Ways.</p>
+            </sp>
+            <sp>
+               <speaker>P. C. S.</speaker>
+               <stage>to Non-conformiſts.</stage>
+               <p>If his Majeſty and his Parliament ſhall think fit that you who cannot conform to all things eſtabli<g ref="char:EOLhyphen"/>ſhed, ſhall upon your peaceable behaviour enjoy Ordinances in your own Way, what will you be willing to do for their ſatisfa<g ref="char:EOLhyphen"/>ction?</p>
+            </sp>
+            <sp>
+               <speaker>Non-conformiſts.</speaker>
+               <p>Any thing that in Rea<g ref="char:EOLhyphen"/>ſon or Conſcience we may do.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Will you (now you cannot aſſent or conſent to all things in the Common-prayer) yet uſe it as far as you can, or come your ſelves with your followers to the place where it is uſed?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Baxter, Dr. Bates, &amp;c.</speaker>
+               <p>It's well known that as we do not abſent our ſelves, ſo we are not willing others ſhould abſent them<g ref="char:EOLhyphen"/>ſelve from Common-Prayer.</p>
+            </sp>
+            <sp>
+               <speaker>L. B. L.</speaker>
+               <p>Will you own the Ordination by Biſhops in the way of the Church of <hi>England?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="40" facs="tcp:29787:24"/>
+               <speaker>London-Miniſters.</speaker>
+               <p>We have made it ap<g ref="char:EOLhyphen"/>pear to the world in our Book called <hi>Jus divinum Miniſterii,</hi> that the Ordination by Biſhops is valid.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Baxter,</speaker>
+               <stage>p. 4.</stage>
+               <p>So eminent in Gods Graces and Gifts were the Biſhops, that their names will be precious whilſt Chriſt hath on earth a Reformed Church.</p>
+               <p>Our <hi>Jewel,</hi> our <hi>Uſher,</hi> our <hi>Davenant,</hi> hath done ſo much againſt the Roman U<g ref="char:EOLhyphen"/>ſurpers, that they will not be able to claw it off them to the laſt.</p>
+               <p>Moreover, who knows not that moſt of the godly able Miniſters of <hi>England</hi> ſince the Reformation, did judge Epiſcopacie, ſome of them lawful, and ſome of them moſt fit? and that before the late troubles, <hi>&amp;c.</hi> the moſt through the Land did ſub<g ref="char:EOLhyphen"/>ſcribe and conform to Epiſcopal Govern<g ref="char:EOLhyphen"/>ment, as a thing not contrary to the Word of God? So that it is evident that it is very conſiſtent with a godly Life to judge Epiſcopacie lawful and juſt, or elſe we ſhould not have had ſo many learned and godly men of that minde.</p>
+            </sp>
+            <sp>
+               <speaker>L.B.W.</speaker>
+               <p>Will you declare it unlawful up<g ref="char:EOLhyphen"/>on any pretence whatſoever, for any per<g ref="char:EOLhyphen"/>ſons, whether the Parliament or any other,
+<pb n="41" facs="tcp:29787:24"/>
+to aſſiſt the King, or to endeavour any Re<g ref="char:EOLhyphen"/>formation without his conſent?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Jenkins.</speaker>
+               <p>Firſt, it's a ſin againſt Gods Ordinance, <hi>Prov.</hi> 8.15. Secondly, it's a ſin againſt the publick welfare: they that are weary of Magiſtrates, are weary of all the comforts and bleſſings of peace. Thirdly, it's a ſin againſt our own happi<g ref="char:EOLhyphen"/>neſs, <hi>Eccles</hi> 10.8. to reſiſt the lawful Ma<g ref="char:EOLhyphen"/>giſtrate. Good men will not be bad Sub<g ref="char:EOLhyphen"/>jects, neither can evil men be good Sub<g ref="char:EOLhyphen"/>jects.</p>
+            </sp>
+            <sp>
+               <speaker>C. S.</speaker>
+               <p>VVill you be contented to teach the people the neceſſary and undoubted Verities of Chriſtian Religion? declaring withal unto your people what influence ſuch Doctrines ought to have upon their Lives and Converſations; and ſtirring them up effectually as well by your examples as Doctrines to the practice of ſuch Religious and Moral Duties, as are the proper Re<g ref="char:EOLhyphen"/>ſults of the ſaid Doctrines, as Self-denial, Contempt of the world, Temperance, Ju<g ref="char:EOLhyphen"/>ſtice, Obedience, <hi>&amp;c.</hi> with a deteſtati<g ref="char:EOLhyphen"/>on of whatſoever is contrary to ſound Do<g ref="char:EOLhyphen"/>ctrine?</p>
+            </sp>
+            <sp>
+               <speaker>Nonconf.</speaker>
+               <p>If we may but upon theſe terms enjoy the liberty of Gods Ordi<g ref="char:EOLhyphen"/>nance,
+<pb n="42" facs="tcp:29787:25"/>
+we ſhall think our ſelves obliged to bleſs God that we have ſeen your face.</p>
+            </sp>
+            <sp>
+               <speaker>S. D.</speaker>
+               <p>For your part, all ye the looſer part of the people, we deſire you may of<g ref="char:EOLhyphen"/>fer what you agree upon among your ſelves, which his Majeſty will conſider of, in order to a publick Peace. In the mean time, you are wiſhed to attend the publick Ordinances of God as far as you can in Conſcience, until an expedient may be ſound in due time.</p>
+            </sp>
+            <sp>
+               <speaker>P. C.</speaker>
+               <p>VVe ſhall enjoyn that there be no<g ref="char:EOLhyphen"/>thing taught publickly but the great Truths, wherein ye all agree; and there<g ref="char:EOLhyphen"/>fore we pray you attend upon publick Preaching: and though you own not the men, yet own the VVord, not as the word of this or that man, but as it is indeed the VVord of God.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſſe.</speaker>
+               <p>Some may preach Chriſt out of envy, and ſome out of contention; but ſo Chriſt be preached, we ſhall rejoyce, and attend upon it.</p>
+            </sp>
+            <sp>
+               <speaker>Venning.</speaker>
+               <p>It is to be feared that they who turn their backs upon the Ordinance of God, may turn their backs upon the God of Ordinances.</p>
+            </sp>
+            <sp>
+               <speaker>Anabaptiſts, &amp;c.</speaker>
+               <p>There are ſo many
+<pb n="43" facs="tcp:29787:25"/>
+things in your Ordinances that we cannot like.</p>
+            </sp>
+            <sp>
+               <speaker>Orthodox.</speaker>
+               <p>There are many things I diſ<g ref="char:EOLhyphen"/>like in all places, yet I frequent them; which becauſe they do not concern me, I paſs by peaceably, without any further noiſe or diſquiet. VVe deſire you onely to be preſent at the Ordinances of God, and to ſubmit to what is of God, and to think as you pleaſe of what you ſee of man there.</p>
+            </sp>
+            <sp>
+               <speaker>All Moderate Men.</speaker>
+               <p>VVe will be conten<g ref="char:EOLhyphen"/>ted to attend the Ordinances of God in o<g ref="char:EOLhyphen"/>bedience to God and men; onely we de<g ref="char:EOLhyphen"/>ſire not to be urged to approve of what we cannot allow of.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>If your practice be ſober, your judgements ſhall be at liberty.—<hi>Have you faith?</hi> i. e. any private Opinion, <hi>have it to your ſelf in the ſight of God: onely forſake not the aſſembling of your ſelves together, as the manner of ſome is:</hi> but let me ſee you as <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Primitive Chriſtians meet with one ac<g ref="char:EOLhyphen"/>cord in one place.</p>
+            </sp>
+            <sp>
+               <speaker>Fan.</speaker>
+               <p>VVe deſire ſo to do, but onely we avoid mixt Aſſemblies.</p>
+            </sp>
+            <sp>
+               <speaker>L.B.C.</speaker>
+               <p>If you will avoid mixt Aſſem<g ref="char:EOLhyphen"/>blies, you muſt avoid all Aſſemblies in the
+<pb n="44" facs="tcp:29787:26"/>
+world. Indeed, as the Apoſtle ſaith, we ought as far as it is poſſible to avoid all communion with unholy perſons; yet not altogether with the unholy in this world, <hi>or with the covetous, or extortioners; for then must we needs go out of the world.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fan.</speaker>
+               <p>The deſire of our ſoul is to walk according to that Rule: wherefore, <hi>Come ye out from among them, and be ye ſeparate, ſaith the Lord, and touch not any unclean thing, and I will receive you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.B.W.</speaker>
+               <p>VVhat, becauſe you are enjoyn<g ref="char:EOLhyphen"/>ed to come out from among Heathens, will you leave us Chriſtians too, who own one God, one Chriſt, one Faith, one Hope with you, and look for one common ſalva<g ref="char:EOLhyphen"/>tion?</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>Are you who go under thoſe ſeveral names of ſeparation, as Independents, A<g ref="char:EOLhyphen"/>nabaptiſts, Quakers, <hi>&amp;c.</hi> agreed upon one common way, which you would have me countenance, which I may adviſe upon, and try according to the great Rule of Scri<g ref="char:EOLhyphen"/>pture, and univerſal profeſſion?</p>
+            </sp>
+            <sp>
+               <speaker>All.</speaker>
+               <p>VVe deſire ſome time to debate our ſeveral differences, and to think upon ſuch happy expedients as may be for general ſatisfaction.</p>
+            </sp>
+            <gap reason="missing" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+            <sp>
+               <pb n="45" facs="tcp:29787:26"/>
+               <speaker>L. C.</speaker>
+               <p>Supreame Magiſtrate is willing that you who are of a looſe wayes of Fanuliſme, Rantiſme, Adamites, Catho<g ref="char:EOLhyphen"/>riſs, &amp;c. ſhould bring a plat forme of your opinions to the Quakers: whom he impowers to reject what they think fit; and to offer what they approve of, toge<g ref="char:EOLhyphen"/>ther with their own way to the fift Mo<g ref="char:EOLhyphen"/>narchy men, who have the like liberty to ſuppreſſe what they think fit, and to offer what they allow of, together with their own Faith to the moderate Anabaptiſts, who hath the like power to reforme what he thinks amiſſe, and to propoſe what he aſſent, to the Independent who may rectifie what is amiſſe, and carry what he allowes of with his own judgement to the Presbyterian; who may bring what he finds agreed upon by others with his own confeſſion of Faith to Supream Autho<g ref="char:EOLhyphen"/>rity, who may very well take equal liberty to judge of their way as they have to judge of others.</p>
+            </sp>
+            <sp>
+               <speaker>L. B.</speaker>
+               <p>Indeed that was Cardinal <hi>Rich<g ref="char:EOLhyphen"/>lieus</hi> way.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>In ſhort, before you go, how far will you of the Independant, Anabaptiſts way, &amp;c. allow that way we call Preſ<g ref="char:EOLhyphen"/>byterian?</p>
+            </sp>
+            <sp>
+               <pb n="46" facs="tcp:29787:27"/>
+               <speaker>Fan.</speaker>
+               <p>Not at all, for we look upon it as the great Tyranny that we can be ſubject to: their fingers are heavier then the Bi<g ref="char:EOLhyphen"/>ſhops Loyns.</p>
+            </sp>
+            <sp>
+               <speaker>Anabaptiſt</speaker>
+               <p n="1">1.<note place="margin">
+                     <hi>Edw: Gang</hi> p: 54.</note> We hope to ſee Heaven and Earth on fire before Presbyters be ſetled.</p>
+               <p n="2">2 We hope to ſee Presbyters as much troden under feet as the Biſhops were: <hi>Gans P.</hi> 73.</p>
+               <p n="3">3 The Presbyterian Government is Anti-chriſtian, a limb of Anti-chriſt Ty<g ref="char:EOLhyphen"/>rannicall, Lordly, cruell, a bondage under Taske-maſters as the <hi>Iſraelites</hi> in <hi>Aegypt.</hi> ibid 221.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>Forbear your paſſion, I hope that upon a mutuall correſpondence you will grow to a better temper.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sterry.</hi>
+               </speaker>
+               <p>The ſeed of God in this Nation hath had two capitall enemies, the <hi>Romiſh</hi> Papacy and the <hi>Scots</hi> Presbytery.</p>
+            </sp>
+            <sp>
+               <speaker>L. Ch.</speaker>
+               <p>I pray, do you of the Presby<g ref="char:EOLhyphen"/>terian Perſwaſion ſatisfie his Majeſty how far the Independents, and thoſe who are called Sectaries may be tolerated.</p>
+            </sp>
+            <sp>
+               <speaker>Sion houſe Miniſters.</speaker>
+               <p>The toleration of theſe men hath not been eſtabliſhed in any Chriſtian State by the Civil Majeſtrate,
+<pb n="47" facs="tcp:29787:27"/>
+and if one way ſhould be tolerated, then all wayes muſt be tolerated; and ſuch a toleration is utterly repugnant, and it con<g ref="char:EOLhyphen"/>ſiſtent with the Solemn League and Cove<g ref="char:EOLhyphen"/>nant for Reformation.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>I pray let me hear what my good Subjects of <hi>Scotland</hi> think of a Tole<g ref="char:EOLhyphen"/>ration.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Bayly.</hi>
+               </speaker>
+               <p>Liberty of con<g ref="char:EOLhyphen"/>ſcience,<note place="margin">Diſſwaſive from the <hi>Errors</hi> of times: <hi>Ep: ded:</hi>
+                  </note> or toleration of all or any Religion, is ſo prodigious an impiety, that this religious Parliament cannot but abhor the very naming of it.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ruth.</hi>
+               </speaker>
+               <p>In thee <hi>England,</hi> in thee <hi>London,</hi> in thee aſſociated Counties, in thee Armies, and that after a Solemn Covenant to extirpate Hereſies and Schiſme, are there found ſuch errors, ſuch opinions, ſuch ſtrange practices, ſuch liberty.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>If after you have all met with free<g ref="char:EOLhyphen"/>dome, offer your ſeveral thoughts with modeſty, debate your differences with reaſon, and manage your controverſies with moderation in the feare of God and love of truth, ſo as becomes men of learn<g ref="char:EOLhyphen"/>ing, gravity and good conſcience, in ſo
+<pb n="48" facs="tcp:29787:28"/>
+grand concernments as import the peace of the Church, the ſatisfaction and ſalva<g ref="char:EOLhyphen"/>tion of Mens ſoules you ſhould return condemning each other, and you would not allow them their way, and they will not allow you yours, what would you have me doe, when you condemn the In<g ref="char:EOLhyphen"/>dependant, Anabaptiſt, as Sectaries, and they you as Antichriſtian, what ſhall I doe but have an eye upon the warrant of holy writ, the primitive inſtitutions and practiſes, the univerſall way of ordering externalls in Religion: The eſtabliſhment of particulars here by the conſent of the people; The regular injunction of law<g ref="char:EOLhyphen"/>full Authority; and if you in your own conſciences ſhall not think one another tolerable, And I in my conſcience cannot allow you, I muſt leave you to the con<g ref="char:EOLhyphen"/>ſcience of the whole Kingdome in Parlia<g ref="char:EOLhyphen"/>ment, to whoſe grand eſtabliſhment I hope you will ſubmit: In the meane time if you can agree upon a modeſt offer for a general accomodation comprehenſive of all ſober parties, It ſhall be very accep<g ref="char:EOLhyphen"/>table to Me, and with all advantage of<g ref="char:EOLhyphen"/>fered to the Parliament.</p>
+            </sp>
+            <sp>
+               <speaker>L. Ch.</speaker>
+               <p>But if any of you in the mean
+<pb n="49" facs="tcp:29787:28"/>
+time by Pride or Faction, Schiſme or Ambition, novel fancies, or arrogance, or ignorance, or ſedition, or popularity, or vain glory, or envy, or diſcontent, or correſpondence ſhall <hi>cauſe diviſions and offences, contrary to the doctrine we have re<g ref="char:EOLhyphen"/>ceived,</hi> troubling themſelves and others with ungrounded ſcruples, uncharitable prejudices, and unquiet ſingularities: I ſhall need love him with no other guilt then the Apoſtle doth, that he is not the <hi>ſervant of Chriſt,</hi> for how can he who is without peace and love ſerve that God who is the God of love, whoſe Law is love.</p>
+            </sp>
+            <sp>
+               <speaker>L. B. ch.</speaker>
+               <p>You ſee his Majeſty's graci<g ref="char:EOLhyphen"/>ous inclinations to all lawfull condeſcen<g ref="char:EOLhyphen"/>tion, compliance and forbearance: in the meane time it may be expected that you prudently ſuſpendent your practices a<g ref="char:EOLhyphen"/>gainſt the eſtabliſhed Law, as wiſe men that can diſcerne time and judgement: If meate ſaith the Apoſtle make my bro<g ref="char:EOLhyphen"/>ther offend; I—I (for I lay no other burden upon you then I would bear my ſelf: who know and am perſwaded in the Lord Jeſus that nothing is uncleane in its ſelf) yet I will abſtaine not only from
+<pb n="50" facs="tcp:29787:29"/>
+fleſh offered to Idols but from all fleſh; and that not a little while while the world ſtands, if it prove but a bare ſcandall or offence juſtly or unjuſtly, not for any by-end, but leaſt my brother ſhould offend at me; for I would ſay I will never meet privately, never forſake the aſſemblying my ſelfe with good men, never refuſe in<g ref="char:EOLhyphen"/>nocent things to offend a whole Church, yea a whole Kingdome.<note place="margin">The recon<g ref="char:EOLhyphen"/>ciling of the real inter<g ref="char:EOLhyphen"/>eſts of Epiſ<g ref="char:EOLhyphen"/>copacy Preſ<g ref="char:EOLhyphen"/>bytery and Independ<g ref="char:EOLhyphen"/>ency:</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Bp. Gauden.</speaker>
+               <p>In order to that happy accommodation which you are adviſed to, you are all to know that how ever in leſſer things you differ one from ano<g ref="char:EOLhyphen"/>ther, yet you ſeem to agree as in the Canon of the Scripture, ſo in the ſoundneſſe of Faith the holyneſſe of di<g ref="char:EOLhyphen"/>vine Myſteries, in the celebration of them by ſuch as are ſome way ordained for that holy ſervice, alſo in the participation of them by ſuch only as are in the judgement of charity worthy or meet to be partakers of them; all agree in the main Chriſt in graces, virtues, and morally required in a good Chriſtian; go along with us in theſe maine things which are neceſſary, rational
+<pb n="51" facs="tcp:29787:29"/>
+wiſe and truly religious, which we aime at deſigne, endeavour and are principled for; goe along with us in ſound and di<g ref="char:EOLhyphen"/>ligent preaching, ſpiritual and diſcreet praying, in holy and ſolemne communi<g ref="char:EOLhyphen"/>ons, the ſerious diſpenſation of miniſte<g ref="char:EOLhyphen"/>rial power, and uſefull execution of Church Diſcipline, which are the ſub<g ref="char:EOLhyphen"/>ſtance of Religion; and for ſome Cere<g ref="char:EOLhyphen"/>monies I ſhall entreat you to ſee how far they are lawfull and what you really think not forbid in the Scripture you would ſubmite in obedience to Authority; and if you really think between God and your own ſoules that ſome circumſtances en<g ref="char:EOLhyphen"/>joyned are unlawfull, as they that uſe them ſhall not deſpiſe you that cannot uſe them, ſo you that uſe them nor muſt judge them that uſe them, good people let us meet together in Gods worſhip, which we all own to ſome Rites or geſtures, let every one be fully perſwaded in his own mind.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:29787:30"/>
+            <pb facs="tcp:29787:30"/>
+         </div>
+      </body>
+   </text>
+</TEI>
